@@ -13,6 +13,10 @@ body {
   font-size: 13px;
 }
 
+img {
+    margin: 15px;
+}
+
 .header .logo {
   height: 100px;
 
